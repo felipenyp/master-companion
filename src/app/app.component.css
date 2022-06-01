@@ -1,3 +1,15 @@
 p {
   font-family: Lato;
 }
+
+app-sidebar {
+  position: fixed;
+  background-color: rgb(214, 31, 92);
+  color: white;
+  height: 100%;
+}
+
+.content {
+  margin-left: calc(70px + 1rem);
+  padding: 1rem;
+}
